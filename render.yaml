@@ -12,7 +12,7 @@ services:
     autoDeployTrigger: checksPass
 
     envVars:
-      - key: John_Wen
+      - key: APP_NAME
         value: Proyecto Web 
       - key: APP_ENV
         value: production
