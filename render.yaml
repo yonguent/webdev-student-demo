@@ -12,8 +12,8 @@ services:
     autoDeployTrigger: checksPass
 
     envVars:
-      - key: APP_NAME
-        value: Desarrollo Web con Laravel
+      - key: John_Wen
+        value: Proyecto Web 
       - key: APP_ENV
         value: production
       - key: APP_DEBUG
