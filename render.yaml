@@ -36,7 +36,7 @@ services:
 
       - key: DB_CONNECTION
         value: pgsql
-      - key: DB_URL
+      - key: DB_URL 
         sync: false
       - key: DB_SSLMODE
         value: require
